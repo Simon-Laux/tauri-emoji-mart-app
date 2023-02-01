@@ -26,18 +26,19 @@ then I saw [@Darthagnon](https://github.com/Darthagnon)'s idea to package emoji 
 ## Developing
 
 ```sh
-# setup
+# setup - install the dependencies
 yarn
-# dev
+# dev - for developing and testing your changes
 yarn tauri dev
-# build
+# build - for production and create packages/installer
 yarn tauri build
 ```
 
 ### Making a release
 
-1. increase version in `package.json`
+1. increase the version number in `package.json`, `src-tauri/tauri.conf.json` and `src-tauri/Cargo.toml`
 2. make a pr to push to the `release` branch
+3. tag the release on the release branch
 
 ### Recommended IDE Setup
 
