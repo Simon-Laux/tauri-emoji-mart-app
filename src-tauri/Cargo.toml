@@ -4,7 +4,7 @@ version = "0.0.0"
 description = "Emoji Mart packaged as tauri app"
 authors = ["you"]
 license = "MIT"
-repository = ""
+repository = "https://github.com/Simon-Laux/tauri-emoji-mart-app"
 edition = "2021"
 rust-version = "1.57"
 
