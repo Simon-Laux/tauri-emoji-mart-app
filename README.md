@@ -26,11 +26,11 @@ then I saw [@Darthagnon](https://github.com/Darthagnon)'s idea to package emoji 
 ## Developing
 
 ```sh
-# setup
+# setup - install the dependencies
 yarn
-# dev
+# dev - for developing and testing your changes
 yarn tauri dev
-# build
+# build - for production and create packages/installer
 yarn tauri build
 ```
 
