@@ -36,8 +36,9 @@ yarn tauri build
 
 ### Making a release
 
-1. increase version in `package.json`
+1. increase the version number in `package.json`, `src-tauri/tauri.conf.json` and `src-tauri/Cargo.toml`
 2. make a pr to push to the `release` branch
+3. tag the release on the release branch
 
 ### Recommended IDE Setup
 
