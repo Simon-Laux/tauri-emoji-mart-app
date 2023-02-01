@@ -1,6 +1,8 @@
 # 🏪 Emoji Mart Tauri
 
-<img src=".github/image.png" alt="screenshot" style="max-width:300px;margin-left:auto;margin-right:auto;display:block" />
+<p align="center">
+  <img src=".github/image.png" alt="screenshot" width="500px" />
+</p>
 
 [Emoji Mart](https://github.com/missive/emoji-mart) as a [tauri](https://tauri.app/) app, click on an emoji to copy it to the clipboard!
 
